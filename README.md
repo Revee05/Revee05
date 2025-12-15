@@ -76,13 +76,13 @@ Auction platform for paintings & sculptures with **dark/light theme**.
 
 ## ✨ Activity
 
-![3d](https://github-profile-3d-contrib.vercel.app/api?username=USERNAME\&theme=dark)
+![3d](https://github-profile-3d-contrib.vercel.app/api?username=Revee05\&theme=dark)
 
 ---
 
 ## 📫 Connect
 
-* GitHub: [https://github.com/USERNAME](https://github.com/USERNAME)
+* GitHub: [https://github.com/USERNAME](https://github.com/Revee05)
 * Portfolio: (coming soon)
 
 > "Building immersive web experiences, not just websites."
