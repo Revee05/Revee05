@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm Revee
 
-Web Developer focused on backend systems, API development, and seamless integration with frontend applications.
+Web VibeDeveloper focused on backend systems, API development, and seamless integration with frontend applications.
 
 🚀 Currently working on an art auction web platform using **Node.js + Fastify** for backend and **Next.js, React, React Three Fiber** with **JavaScript** for frontend integration.
 
@@ -10,10 +10,11 @@ Web Developer focused on backend systems, API development, and seamless integrat
 
 ## 🧠 Focus & Expertise
 
-* Interactive Web UI / UX
+* Interactive Web
 * 3D Web (Three.js, React Three Fiber)
-* Frontend Architecture (SPA)
-* Dark / Light Theme System
+* Frontend Architecture
+* Backend Architecture
+* RBAC System + Rotation token
 
 ---
 
