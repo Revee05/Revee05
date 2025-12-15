@@ -1,8 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=220\&text=Revee\&fontSize=42\&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=240&section=header&text=Revee&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Systems%20%7C%20API%20Integration%20%7C%203D%20Web&descAlignY=55&descSize=16)
+
 
 ## 👋 Hi, I'm Revee
 
-Web VibeDeveloper focused on backend systems, API development, and seamless integration with frontend applications.
+VibeDeveloper focused on backend systems, API development, and seamless integration with frontend applications.
 
 🚀 Currently working on an art auction web platform using **Node.js + Fastify** for backend and **Next.js, React, React Three Fiber** with **JavaScript** for frontend integration.
 
