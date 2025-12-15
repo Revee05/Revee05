@@ -31,7 +31,7 @@ Web Developer focused on **interactive UI, 3D web experience, and modern fronten
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?logo=node.js)
-![Fastify](https://img.shields.io/badge/Fastify-0d1117)
+![Fastify](https://img.shields.io/badge/Fastify-API_Framework-0d1117)
 ![Express](https://img.shields.io/badge/Express-0d1117?logo=express)
 ![PHP](https://img.shields.io/badge/PHP-0d1117?logo=php)
 ![Laravel](https://img.shields.io/badge/Laravel-0d1117?logo=laravel)
