@@ -48,26 +48,6 @@ Web VibeDeveloper focused on backend systems, API development, and seamless inte
 
 ---
 
-## 🔥 Featured Projects
-
-### 🧠 3D Circuit Board SPA
-
-Interactive 3D interface with glowing nodes, click interaction, and smooth animation.
-
-* React Three Fiber
-* TypeScript
-* Custom shader & glow effects
-
-### 🎨 Art Auction Platform
-
-Auction platform for paintings & sculptures with **dark/light theme**.
-
-* Modern UI
-* Accessibility-focused
-* Performance optimized
-
----
-
 ## 📊 GitHub Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Revee05\&show_icons=true\&theme=transparent)
