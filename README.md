@@ -26,7 +26,7 @@ Web Developer focused on **interactive UI, 3D web experience, and modern fronten
 ![Three.js](https://img.shields.io/badge/Three.js-0d1117?logo=three.js)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1117?logo=tailwindcss)
 ![SCSS](https://img.shields.io/badge/SCSS-0d1117?logo=sass)
-![CSS](https://img.shields.io/badge/CSS3-0d1117?logo=css)
+![CSS](https://img.shields.io/badge/CSS-0d1117?logo=css)
 
 ### Backend
 
