@@ -69,8 +69,8 @@ Auction platform for paintings & sculptures with **dark/light theme**.
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=USERNAME\&show_icons=true\&theme=transparent)
-![top](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME\&layout=compact\&theme=transparent)
+![stats](https://github-readme-stats.vercel.app/api?username=Revee05\&show_icons=true\&theme=transparent)
+![top](https://github-readme-stats.vercel.app/api/top-langs/?username=Revee05\&layout=compact\&theme=transparent)
 
 ---
 
