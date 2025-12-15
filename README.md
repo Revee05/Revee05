@@ -2,9 +2,9 @@
 
 ## 👋 Hi, I'm Revee
 
-Web Developer focused on **interactive UI, 3D web experience, and modern frontend architecture**.
+Web Developer focused on backend systems, API development, and seamless integration with frontend applications.
 
-🚀 Currently building immersive SPA using **React Three Fiber**, **TypeScript**, and **modern CSS/SCSS**.
+🚀 Currently working on an art auction web platform using **Node.js + Fastify** for backend and **Next.js, React, React Three Fiber** with **JavaScript** for frontend integration.
 
 ---
 
