@@ -82,7 +82,7 @@ Auction platform for paintings & sculptures with **dark/light theme**.
 
 ## 📫 Connect
 
-* GitHub: [https://github.com/USERNAME](https://github.com/Revee05)
+* GitHub: [https://github.com/Revee05](https://github.com/Revee05)
 * Portfolio: (coming soon)
 
 > "Building immersive web experiences, not just websites."
