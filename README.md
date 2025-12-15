@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=240&section=header&text=Revee&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Systems%20%7C%20API%20Integration%20%7C%20Vibe%20Dev&descAlignY=55&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:334155&height=230&text=Revee&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Systems%20%7C%20API%20Integration%20%7C%20Vibe%20Dev&descAlignY=56&descSize=16)
 
 
 ## 👋 Hi, I'm Revee
